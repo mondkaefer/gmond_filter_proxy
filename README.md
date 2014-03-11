@@ -1,7 +1,7 @@
 gmond-filter-proxy
 ==================
 
-Prerequisite: Requires Python 2.7 for argparse and re.DOTALL
+Prerequisite: Python 2.7
 
 Simple Python-based proxy server for a gmond server to filter out metrics that shouldn't be pushed upstream.
 
